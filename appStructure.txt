@@ -1,0 +1,18 @@
+1.emp_project
+    1.1 emp_reg(app folder)
+        migration(includes files related to migration)
+        templates
+            emp_reg
+                base.html
+                emp_form.html
+                emp_list.html
+        
+        models.py
+        forms.py
+        urls.py
+        views.py
+
+        emp_project(project folder)
+            settings.py
+            urls.py
+    
